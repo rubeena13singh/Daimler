@@ -5,5 +5,12 @@
         "Dealer claim number": "",
         "Damage sequence number" : "000",
         "Record type" : "01"
-    }  
+    },
+     {  
+        "Country": "India",   
+        "Dealer code": "50000",   
+        "Dealer claim number": "",
+        "Damage sequence number" : "001",
+        "Record type" : "01"
+    } 
 }  
