@@ -1,9 +1,9 @@
 {  
     "Dealer": {  
         "Country": "Germany",   
-        "Dealer code": 56000,   
+        "Dealer code": "56000",   
         "Dealer claim number": "",
-        "Damage sequence number" : 000,
-        "Record type" : 01
+        "Damage sequence number" : "000",
+        "Record type" : "01"
     }  
 }  
