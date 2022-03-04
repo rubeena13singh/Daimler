@@ -20,6 +20,13 @@
                 "Dealer claim number": "",
                 "Damage sequence number" : "002",
                 "Record type" : "01"
+            },
+            {  
+                "Country": "Russia",   
+                "Dealer code": "53000",   
+                "Dealer claim number": "",
+                "Damage sequence number" : "003",
+                "Record type" : "01"
             } 
             ]
 }
