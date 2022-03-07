@@ -1,53 +1,32 @@
 {  
     "Dealer": [ 
               {
-                "Country": "Germany",   
+                "Country": "Poland",   
                 "Dealer code": "70000",   
                 "Dealer claim number": "",
                 "Damage sequence number" : "000",
                 "Record type" : "01"
              },
-             {  
-                "Country": "India",   
-                "Dealer code": "50000",   
-                "Dealer claim number": "",
-                "Damage sequence number" : "001",
-                "Record type" : "01"
-            },
-            {  
-                "Country": "UK",   
-                "Dealer code": "51000",   
-                "Dealer claim number": "",
-                "Damage sequence number" : "002",
-                "Record type" : "01"
-            },
             {  
                 "Country": "Polands",   
                 "Dealer code": "53000",   
                 "Dealer claim number": "",
-                "Damage sequence number" : "003",
+                "Damage sequence number" : "001",
                 "Record type" : "01"
             },
             {  
                 "Country": "Romania",   
                 "Dealer code": "54000",   
                 "Dealer claim number": "",
-                "Damage sequence number" : "004",
+                "Damage sequence number" : "002",
                 "Record type" : "01"
             },
             {  
                 "Country": "Ireland",   
                 "Dealer code": "60000",   
                 "Dealer claim number": "",
-                "Damage sequence number" : "005",
+                "Damage sequence number" : "003",
                 "Record type" : "01"
-            },
-            {  
-                "Country": "NewZealand",   
-                "Dealer code": "80000",   
-                "Dealer claim number": "",
-                "Damage sequence number" : "006",
-                "Record type" : "01"
-            } 
+            }
             ]
 }
