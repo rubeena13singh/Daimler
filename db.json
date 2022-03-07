@@ -34,6 +34,13 @@
                 "Dealer claim number": "",
                 "Damage sequence number" : "004",
                 "Record type" : "01"
+            },
+            {  
+                "Country": "Australia",   
+                "Dealer code": "60000",   
+                "Dealer claim number": "",
+                "Damage sequence number" : "005",
+                "Record type" : "01"
             } 
             ]
 }
