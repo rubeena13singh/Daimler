@@ -36,10 +36,17 @@
                 "Record type" : "01"
             },
             {  
-                "Country": "Australia",   
+                "Country": "Ireland",   
                 "Dealer code": "60000",   
                 "Dealer claim number": "",
                 "Damage sequence number" : "005",
+                "Record type" : "01"
+            },
+            {  
+                "Country": "Australia",   
+                "Dealer code": "80000",   
+                "Dealer claim number": "",
+                "Damage sequence number" : "006",
                 "Record type" : "01"
             } 
             ]
