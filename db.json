@@ -25,14 +25,7 @@
                 "Country": "Ireland",   
                 "Dealer code": "60000",   
                 "Dealer claim number": "",
-                "Damage sequence number" : "034",
-                "Record type" : "01"
-            },
-            {  
-                "Country": "Spain",   
-                "Dealer code": "70000",   
-                "Dealer claim number": "",
-                "Damage sequence number" : "007",
+                "Damage sequence number" : "0345",
                 "Record type" : "01"
             }
             ]
